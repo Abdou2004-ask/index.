@@ -1,0 +1,72 @@
+ 
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Pacifico', cursive , serif;
+}
+ 
+h1{
+    
+    font-size: 60px;
+    display: block;
+    margin: 0 auto;
+}
+ 
+div :hover{
+     color: mediumspringgreen;
+}
+
+
+.D1   {
+    background-color : #f6f6f6;   
+  
+    padding: 20px;
+    padding-top:100px ;
+ 
+
+}    
+     
+   
+
+p{
+    font-size: 30px;
+    display: inline;
+    font-family: 'Ubuntu', sans-serif;
+    
+    
+    
+}
+.D2{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    
+}
+.D3{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    
+}
+.mountain{
+
+}
+#span1{
+    text-decoration: underline;
+}
+.cloud1{
+    width: 200px;
+    height: 90px;
+    position: relative;
+    left: 300px;
+    
+   
+    
+}
+.cloud2{
+    width: 200px;
+    height: 90px;
+    position: absolute;
+    top: 250px;
+    padding-top: 80px;
+}
